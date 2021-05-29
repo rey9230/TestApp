@@ -1,6 +1,6 @@
 # TestApp
 
-Kotling Test training App where can be found the following android development components
+Kotlin Test training App where can be found the following android development components
 
 * Android coroutines
 * RESTful Services Consumption
